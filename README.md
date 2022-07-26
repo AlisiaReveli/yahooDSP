@@ -8,6 +8,6 @@
 ```
 
 ```
-- for starting  :node index.js for starting  :
+- for starting  : node index.js 
 
 ```
