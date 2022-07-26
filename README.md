@@ -1,13 +1,13 @@
 ```
-npm install
+ - npm install
 ```
 
 ```
-add .env variables
+- add .env variables
 
 ```
 
-'''
-node index.js for starting 
+```
+- for starting  :node index.js for starting  :
 
 ```
